@@ -12,7 +12,6 @@ function Home() {
     const history = useHistory();
     return(
         <div className='header'>
-            <SpeedInsights/>
             <Link to='/'>
             <img
                 className="header__icon"
