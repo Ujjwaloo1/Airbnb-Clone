@@ -5,7 +5,6 @@ import LanguageIcon from '@mui/icons-material/Language';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { Avatar } from '@mui/material';
 import { Link } from 'react-router-dom';
-import { SpeedInsights } from "@vercel/speed-insights/react"
 import { Button } from '@mui/material';
 import { useHistory } from "react-router-dom";
 
