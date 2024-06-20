@@ -1,6 +1,5 @@
 # Airbnb Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Overview
 
@@ -8,10 +7,10 @@ This project is an Airbnb clone built using React.js, focusing on core functiona
 
 ### Features
 
-##Browse Listings:
+*Browse Listings:
 Users can explore available properties with details like price, location, and amenities.
 
-##Search Functionality:
+*Search Functionality:
 Filter properties based on location, available dates, and price range for a targeted search.
 
 ##Bonus Features:
