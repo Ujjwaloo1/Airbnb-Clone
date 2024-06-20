@@ -12,8 +12,9 @@ This project is an Airbnb clone built using React.js, focusing on core functiona
 
      Search Functionality:
            Filter properties based on location, available dates, and price range for a targeted search.
-
-Bonus Features:
+           
+     Bonus Features:
+               
                Save Properties:
                Allow users to save listings they like for later reference (using React state or local storage).
 
@@ -23,28 +24,23 @@ Bonus Features:
 
 ### Technologies Used
 
-##React.js:
-A JavaScript library for building dynamic user interfaces.
+      React.js:
+         A JavaScript library for building dynamic user interfaces.
 
-##JavaScript:
-A syntax extension for JavaScript that allows writing HTML-like structures within the React components.
+      JavaScript:
+         A syntax extension for JavaScript that allows writing HTML-like structures within the React components.
 
-##CSS:
-Styles the application for a visually appealing interface
+      CSS:
+         Styles the application for a visually appealing interface
 
 ### Usage
 
-##Viewing Listings:
-Open the application to see a list of available properties.
+      Viewing Listings:
+         Open the application to see a list of available properties.
 
-##Searching Properties:
-Use the search bar to filter properties based on your desired location, dates, and price range.
+      Searching Properties:
+         Use the search bar to filter properties based on your desired location, dates, and price range.
 
-##Liking/Saving Properties (future):
-(Click the "like" button to save a property for later - to be implemented using React state or local storage)
-
-##Booking a Property (future):
-(Select dates, guest count, and proceed with booking - potentially using a form and API integration)
 
 
 This Airbnb property Listing Site is live at:- https://airbnb-clone-two-sage.vercel.app/
