@@ -5,11 +5,15 @@ import LanguageIcon from '@mui/icons-material/Language';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { Avatar } from '@mui/material';
 import { Link } from 'react-router-dom';
-
+import { SpeedInsights } from "@vercel/speed-insights/react"
+import { Button } from '@mui/material';
+import { useHistory } from "react-router-dom";
 
 function Home() {
+    const history = useHistory();
     return(
         <div className='header'>
+            <SpeedInsights/>
             <Link to='/'>
             <img
                 className="header__icon"
@@ -23,7 +27,7 @@ function Home() {
             </div>
 
             <div className=' header__right'>
-                <p>Become a host</p>
+            <Button onClick={() => history.push('/search')} variant='outline'>Become a host</Button>
                 <LanguageIcon/>
                 <ExpandMoreIcon/>
                 <Avatar/>
