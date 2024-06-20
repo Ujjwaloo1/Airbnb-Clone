@@ -45,13 +45,16 @@ This project is an Airbnb clone built using React.js, focusing on core functiona
 
 This Airbnb property Listing Site is live at:- https://airbnb-clone-two-sage.vercel.app/
 
+
+
+
 ### Contact
 
 Feel free to reach out for any inquiries or feedback:
 
-Name: Ujjwal Tyagi
-Email: ujjwal007ty@gmail.com
-GitHub: Ujjwaloo1
+     Name: Ujjwal Tyagi
+     Email: ujjwal007ty@gmail.com
+     GitHub: Ujjwaloo1
 
 
 
