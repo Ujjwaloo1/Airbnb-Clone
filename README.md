@@ -13,7 +13,7 @@ This project is an Airbnb clone built using React.js, focusing on core functiona
      Search Functionality:
            Filter properties based on location, available dates, and price range for a targeted search.
 
-##Bonus Features:
+Bonus Features:
                Save Properties:
                Allow users to save listings they like for later reference (using React state or local storage).
 
